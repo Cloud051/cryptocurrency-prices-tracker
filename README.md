@@ -8,7 +8,6 @@ A simple displayer of prices to practice
 
 ## Features
 
-- API Fetch
 - Data Modeling
 - Price History Tracking
 - Price Change Calculation
