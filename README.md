@@ -1,4 +1,4 @@
-# Cryptocurrency Prices Tracker
+# Cryptocurrency Price Tracker
 
 A simple displayer of prices to practice
 
